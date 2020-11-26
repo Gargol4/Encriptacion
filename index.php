@@ -1,4 +1,4 @@
 <?php
-echo md5("luis");
+echo sha1("luis");
 
 ?>
